@@ -1,0 +1,8 @@
+F:\CSVParser\CSVParser\bin\Debug\DocumentParser.dll
+F:\CSVParser\CSVParser\bin\Debug\DocumentParser.pdb
+F:\CSVParser\CSVParser\obj\Debug\DocumentParser.dll
+F:\CSVParser\CSVParser\obj\Debug\DocumentParser.pdb
+F:\CSVParser\DocumentParser\bin\Debug\DocumentParser.dll
+F:\CSVParser\DocumentParser\bin\Debug\DocumentParser.pdb
+F:\CSVParser\DocumentParser\obj\Debug\DocumentParser.dll
+F:\CSVParser\DocumentParser\obj\Debug\DocumentParser.pdb

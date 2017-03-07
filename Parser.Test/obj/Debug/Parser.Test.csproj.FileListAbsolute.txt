@@ -1,0 +1,7 @@
+F:\CSVParser\Parser.Test\bin\Debug\Parser.Test.dll
+F:\CSVParser\Parser.Test\bin\Debug\Parser.Test.pdb
+F:\CSVParser\Parser.Test\bin\Debug\DocumentParser.dll
+F:\CSVParser\Parser.Test\bin\Debug\DocumentParser.pdb
+F:\CSVParser\Parser.Test\obj\Debug\Parser.Test.csprojResolveAssemblyReference.cache
+F:\CSVParser\Parser.Test\obj\Debug\Parser.Test.dll
+F:\CSVParser\Parser.Test\obj\Debug\Parser.Test.pdb

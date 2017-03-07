@@ -1,0 +1,16 @@
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\CSVParser\bin\Debug\CSVParser.dll
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.csprojResolveAssemblyReference.cache
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.dll
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
+F:\CSVParser\CSVParser\bin\Debug\CSVParser.dll
+F:\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+F:\CSVParser\CSVParser\bin\Debug\mscorlib.dll
+F:\CSVParser\CSVParser\bin\Debug\normidna.nlp
+F:\CSVParser\CSVParser\bin\Debug\normnfc.nlp
+F:\CSVParser\CSVParser\bin\Debug\normnfd.nlp
+F:\CSVParser\CSVParser\bin\Debug\normnfkc.nlp
+F:\CSVParser\CSVParser\bin\Debug\normnfkd.nlp
+F:\CSVParser\CSVParser\obj\Debug\CSVParser.dll
+F:\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
+F:\CSVParser\CSVParser\obj\Debug\CSVParser.csprojResolveAssemblyReference.cache

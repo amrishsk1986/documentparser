@@ -1,0 +1,16 @@
+F:\CSVParser\ConsoleApplication1\obj\Debug\ParserClient.csprojResolveAssemblyReference.cache
+F:\CSVParser\ConsoleApplication1\bin\Debug\ParserClient.exe.config
+F:\CSVParser\ConsoleApplication1\bin\Debug\ParserClient.exe
+F:\CSVParser\ConsoleApplication1\bin\Debug\ParserClient.pdb
+F:\CSVParser\ConsoleApplication1\bin\Debug\DocumentParser.dll
+F:\CSVParser\ConsoleApplication1\bin\Debug\DocumentParser.pdb
+F:\CSVParser\ConsoleApplication1\obj\Debug\ParserClient.exe
+F:\CSVParser\ConsoleApplication1\obj\Debug\ParserClient.pdb
+F:\CSVParser\ParserClient\bin\Debug\ParserClient.exe.config
+F:\CSVParser\ParserClient\obj\Debug\ParserClient.exe
+F:\CSVParser\ParserClient\obj\Debug\ParserClient.pdb
+F:\CSVParser\ParserClient\bin\Debug\ParserClient.exe
+F:\CSVParser\ParserClient\bin\Debug\ParserClient.pdb
+F:\CSVParser\ParserClient\bin\Debug\DocumentParser.dll
+F:\CSVParser\ParserClient\bin\Debug\DocumentParser.pdb
+F:\CSVParser\ParserClient\obj\Debug\ParserClient.csprojResolveAssemblyReference.cache

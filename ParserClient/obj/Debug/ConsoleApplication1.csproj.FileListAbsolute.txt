@@ -1,0 +1,22 @@
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\ConsoleApplication1\bin\Debug\CSVParser.dll
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\ConsoleApplication1\bin\Debug\CSVParser.pdb
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\akulkarni9\documents\visual studio 2015\Projects\CSVParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\CSVParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\CSVParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\CSVParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\CSVParser\ConsoleApplication1\bin\Debug\CSVParser.dll
+F:\CSVParser\ConsoleApplication1\bin\Debug\mscorlib.dll
+F:\CSVParser\ConsoleApplication1\bin\Debug\CSVParser.pdb
+F:\CSVParser\ConsoleApplication1\bin\Debug\normidna.nlp
+F:\CSVParser\ConsoleApplication1\bin\Debug\normnfc.nlp
+F:\CSVParser\ConsoleApplication1\bin\Debug\normnfd.nlp
+F:\CSVParser\ConsoleApplication1\bin\Debug\normnfkc.nlp
+F:\CSVParser\ConsoleApplication1\bin\Debug\normnfkd.nlp
+F:\CSVParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\CSVParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\CSVParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
